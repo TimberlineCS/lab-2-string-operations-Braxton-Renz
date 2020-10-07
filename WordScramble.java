@@ -1,5 +1,6 @@
 public class WordScramble{
   public static void main(String args[]){
+    //Braxton Renz
     String word = "Popcorn";
     String wordLower = word.toLowerCase();
     String firstHalf = wordLower.substring(0, wordLower.length()/2);
